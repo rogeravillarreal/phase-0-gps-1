@@ -7,7 +7,7 @@ I am learning **so much** in DBC. For example:
 * The wonders of git
 * HTML
 
-*Note: So far, HTML is my favorite.*
+*Note: So far, git is my favorite.*
 
 > This line is a code block.
 
